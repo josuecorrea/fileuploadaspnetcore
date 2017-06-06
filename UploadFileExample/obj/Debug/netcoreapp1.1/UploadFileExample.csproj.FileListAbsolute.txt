@@ -1,0 +1,9 @@
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\bin\Debug\netcoreapp1.1\UploadFileExample.deps.json
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\bin\Debug\netcoreapp1.1\UploadFileExample.runtimeconfig.json
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\bin\Debug\netcoreapp1.1\UploadFileExample.runtimeconfig.dev.json
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\bin\Debug\netcoreapp1.1\UploadFileExample.dll
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\bin\Debug\netcoreapp1.1\UploadFileExample.pdb
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\obj\Debug\netcoreapp1.1\UploadFileExample.csprojResolveAssemblyReference.cache
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\obj\Debug\netcoreapp1.1\UploadFileExample.AssemblyInfo.cs
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\obj\Debug\netcoreapp1.1\UploadFileExample.dll
+c:\users\legal\onedrive\documentos\visual studio 2017\Projects\UploadFileExample\UploadFileExample\obj\Debug\netcoreapp1.1\UploadFileExample.pdb
